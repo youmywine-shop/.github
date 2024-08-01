@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/angelo-fotoeventi/open-depot/main/mockup/xxxx.jpg">
+<img src="https://raw.githubusercontent.com/youmywine-shop/open-depot/main/mockups/social-banner.jpg">
 
 ---
 
